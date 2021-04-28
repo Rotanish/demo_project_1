@@ -1,0 +1,5 @@
+aiohttp
+aiohttp-session
+cryptography
+docxtpl
+pony
